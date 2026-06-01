@@ -5,7 +5,7 @@
 
 <div align="center">
   <img src="https://i.pinimg.com/736x/4d/59/00/4d5900af12101d5b283621a85db5bd75.jpg" width="120" height="120" style="border-radius: 24px;">
-  <h1>🎯 DATracker</h1>
+  <h1>🎯 DATracker ( SOON REALEASE) </h1>
   <h3>Discord Activity Tracker — твой статус. Автоматически.</h3>
   <p>Кроссплатформенное приложение, которое показывает в Discord, чем ты занят на компьютере: игры, код, музыка, сайты и даже системная нагрузка.</p>
   
