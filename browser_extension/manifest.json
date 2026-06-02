@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Discord Activity Tracker",
+  "version": "1.0",
+  "description": "Передает активную вкладку в Discord RPC",
+  "permissions": ["tabs", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
