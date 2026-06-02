@@ -1,0 +1,10 @@
+{
+    "is_tracking_active": false,
+    "blacklisted_domains": [
+        "tinkoff.ru",
+        "sberbank.ru",
+        "vscode.dev",
+        "gemini.google.com"
+    ],
+    "language": "ru"
+}
